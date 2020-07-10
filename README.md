@@ -1,4 +1,4 @@
-##React movie search using OMDB API and React bootstrap UI
+## React movie search using OMDB API and React bootstrap UI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
